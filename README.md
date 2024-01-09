@@ -20,7 +20,7 @@
 * _in a simple_
 * _easy-to-understand_
 * _format_
-
+In __tests__ folder Name files in this style: nameOfFileToBeTested.test.js
 ## Known Bugs
 
 * _Any known issues_
